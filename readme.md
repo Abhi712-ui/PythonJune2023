@@ -30,5 +30,3 @@
 - `print(name * 3)` -> displays the string name 3 times on the same line.
 
 ---
-
-- All other text is in bullet points.
